@@ -20,3 +20,4 @@ jobs:
           git add index.html
           git commit -m "Add improved embedded JSON chatbot" || exit 0
           git push
+# sync trigger
